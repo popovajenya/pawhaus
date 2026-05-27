@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>PAWHAUS – Premium Dog Accessories</title>
+    <link>https://YOUR-USERNAME.github.io/pawhaus</link>
+    <description>Premium dog accessories including collars, leashes, beds, toys and travel gear.</description>
+
+    <item>
+      <g:id>PAWH-001</g:id>
+      <title>Braided Leather Collar for Dogs</title>
+      <description>Handcrafted genuine leather collar with brass buckle. Available in S/M/L sizes. Durable and stylish for daily wear. Safe for all breeds.</description>
+      <link>https://YOUR-USERNAME.github.io/pawhaus/index.html#products</link>
+      <g:image_link>https://YOUR-USERNAME.github.io/pawhaus/images/collar.jpg</g:image_link>
+      <g:price>24.99 USD</g:price>
+      <g:sale_price>24.99 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>PAWHAUS</g:brand>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Collars</g:google_product_category>
+      <g:product_type>Dog Collars &amp; Leashes</g:product_type>
+      <g:gtin>0123456789012</g:gtin>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:shipping_weight>0.2 kg</g:shipping_weight>
+    </item>
+
+    <item>
+      <g:id>PAWH-002</g:id>
+      <title>Reflective Safety Dog Leash 6ft</title>
+      <description>6ft reflective nylon leash. Perfect for evening walks. Strong clip, padded handle for comfort. Safe for all dog sizes.</description>
+      <link>https://YOUR-USERNAME.github.io/pawhaus/index.html#products</link>
+      <g:image_link>https://YOUR-USERNAME.github.io/pawhaus/images/leash.jpg</g:image_link>
+      <g:price>18.99 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>PAWHAUS</g:brand>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Collars</g:google_product_category>
+      <g:product_type>Dog Collars &amp; Leashes</g:product_type>
+      <g:gtin>0123456789013</g:gtin>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+
+    <item>
+      <g:id>PAWH-003</g:id>
+      <title>Orthopedic Memory Foam Dog Bed</title>
+      <description>Premium memory foam base with removable washable cover. Ideal for older dogs or those with joint issues. Available in M/L/XL.</description>
+      <link>https://YOUR-USERNAME.github.io/pawhaus/index.html#products</link>
+      <g:image_link>https://YOUR-USERNAME.github.io/pawhaus/images/bed.jpg</g:image_link>
+      <g:price>59.99 USD</g:price>
+      <g:sale_price>59.99 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>PAWHAUS</g:brand>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Beds</g:google_product_category>
+      <g:gtin>0123456789014</g:gtin>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+
+    <item>
+      <g:id>PAWH-004</g:id>
+      <title>Plush Donut Dog Bed Self-Warming</title>
+      <description>Ultra-soft self-warming donut bed. The raised rim provides security and comfort. Machine washable. Available in S/M/L.</description>
+      <link>https://YOUR-USERNAME.github.io/pawhaus/index.html#products</link>
+      <g:image_link>https://YOUR-USERNAME.github.io/pawhaus/images/donut-bed.jpg</g:image_link>
+      <g:price>39.99 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>PAWHAUS</g:brand>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Beds</g:google_product_category>
+      <g:gtin>0123456789015</g:gtin>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+
+    <item>
+      <g:id>PAWH-005</g:id>
+      <title>Cotton Rope Tug Toy Set for Dogs – 3 Pack</title>
+      <description>Set of 3 natural cotton rope toys. Great for dental health and interactive play. Safe for all breeds. Non-toxic materials.</description>
+      <link>https://YOUR-USERNAME.github.io/pawhaus/index.html#products</link>
+      <g:image_link>https://YOUR-USERNAME.github.io/pawhaus/images/rope-toy.jpg</g:image_link>
+      <g:price>12.99 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>PAWHAUS</g:brand>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Toys</g:google_product_category>
+      <g:gtin>0123456789016</g:gtin>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+
+    <item>
+      <g:id>PAWH-006</g:id>
+      <title>Squeaky Plush Fox Dog Toy</title>
+      <description>Adorable squeaky plush toy. Soft exterior, durable squeaker inside. Perfect for gentle chewers. Safe non-toxic materials.</description>
+      <link>https://YOUR-USERNAME.github.io/pawhaus/index.html#products</link>
+      <g:image_link>https://YOUR-USERNAME.github.io/pawhaus/images/fox-toy.jpg</g:image_link>
+      <g:price>9.99 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>PAWHAUS</g:brand>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Toys</g:google_product_category>
+      <g:gtin>0123456789017</g:gtin>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+
+    <item>
+      <g:id>PAWH-007</g:id>
+      <title>Dog Snuffle Mat for Mental Enrichment</title>
+      <description>Stimulating snuffle mat for mental enrichment. Hide treats and let your dog forage naturally. Reduces anxiety and boredom.</description>
+      <link>https://YOUR-USERNAME.github.io/pawhaus/index.html#products</link>
+      <g:image_link>https://YOUR-USERNAME.github.io/pawhaus/images/snuffle-mat.jpg</g:image_link>
+      <g:price>22.99 USD</g:price>
+      <g:sale_price>22.99 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>PAWHAUS</g:brand>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Toys</g:google_product_category>
+      <g:gtin>0123456789018</g:gtin>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+
+    <item>
+      <g:id>PAWH-008</g:id>
+      <title>Airline Approved Dog Carrier Bag</title>
+      <description>Airline-approved soft carrier. Fits dogs up to 15lbs. Ventilated mesh panels, fleece pad included. Complies with major airline regulations.</description>
+      <link>https://YOUR-USERNAME.github.io/pawhaus/index.html#products</link>
+      <g:image_link>https://YOUR-USERNAME.github.io/pawhaus/images/carrier.jpg</g:image_link>
+      <g:price>49.99 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>PAWHAUS</g:brand>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Carriers &amp; Travel Products</g:google_product_category>
+      <g:gtin>0123456789019</g:gtin>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+
+    <item>
+      <g:id>PAWH-009</g:id>
+      <title>Retractable Dog Leash 5 Meter</title>
+      <description>Smooth retractable mechanism up to 5 meters. One-button brake and lock. Ergonomic non-slip handle. For dogs up to 55lbs.</description>
+      <link>https://YOUR-USERNAME.github.io/pawhaus/index.html#products</link>
+      <g:image_link>https://YOUR-USERNAME.github.io/pawhaus/images/retractable-leash.jpg</g:image_link>
+      <g:price>16.99 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>PAWHAUS</g:brand>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Collars</g:google_product_category>
+      <g:gtin>0123456789020</g:gtin>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+
+    <item>
+      <g:id>PAWH-010</g:id>
+      <title>Personalized Dog ID Tag Stainless Steel</title>
+      <description>Custom engraved stainless steel ID tag. Heart, bone or paw shapes available. Includes 2 lines of personalized text. Rust-proof.</description>
+      <link>https://YOUR-USERNAME.github.io/pawhaus/index.html#products</link>
+      <g:image_link>https://YOUR-USERNAME.github.io/pawhaus/images/id-tag.jpg</g:image_link>
+      <g:price>7.99 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>PAWHAUS</g:brand>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Collars</g:google_product_category>
+      <g:gtin>0123456789021</g:gtin>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+
+    <item>
+      <g:id>PAWH-011</g:id>
+      <title>Dog Cooling Gel Mat – Self Cooling</title>
+      <description>Self-cooling gel mat, no refrigeration needed. Non-toxic, pressure-activated cooling. Great for hot summer days. Easy to clean.</description>
+      <link>https://YOUR-USERNAME.github.io/pawhaus/index.html#products</link>
+      <g:image_link>https://YOUR-USERNAME.github.io/pawhaus/images/cooling-mat.jpg</g:image_link>
+      <g:price>34.99 USD</g:price>
+      <g:sale_price>34.99 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>PAWHAUS</g:brand>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Beds</g:google_product_category>
+      <g:gtin>0123456789022</g:gtin>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+
+    <item>
+      <g:id>PAWH-012</g:id>
+      <title>Collapsible Dog Travel Bowl Set – 2 Pack</title>
+      <description>Set of 2 collapsible silicone bowls. Food and water grade safe. Clips to backpack or leash. BPA-free. Perfect for hiking and travel.</description>
+      <link>https://YOUR-USERNAME.github.io/pawhaus/index.html#products</link>
+      <g:image_link>https://YOUR-USERNAME.github.io/pawhaus/images/travel-bowl.jpg</g:image_link>
+      <g:price>11.99 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>PAWHAUS</g:brand>
+      <g:google_product_category>Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Carriers &amp; Travel Products</g:google_product_category>
+      <g:gtin>0123456789023</g:gtin>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+
+  </channel>
+</rss>
